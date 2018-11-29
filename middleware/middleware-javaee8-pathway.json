@@ -1,0 +1,13 @@
+{
+  "title": "Java EE 8 development using JBoss EAP",
+  "description": "",
+  "paid": false,
+  "courses": [
+    {
+      "external_link": "https://learn.openshift.com/middleware/courses/middleware-eap/eap-dev",
+      "course_id": "spring-getting-started",
+      "title": "Getting Started with Spring",
+      "description": "Basic Introduction to Spring on Red Hat OpenShift"
+    }
+  ]
+}
